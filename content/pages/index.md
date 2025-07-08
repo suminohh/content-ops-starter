@@ -14,33 +14,33 @@ sections:
       git commit, git workflows and collaboration just work.
     actions:
       - label: Get started
-        altText: ''
+        altText: ""
         url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: ''
+        elementId: ""
         type: Button
       - label: See Tutorials
-        altText: ''
+        altText: ""
         url: /
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
+        elementId: ""
         type: Link
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
-      elementId: ''
+      elementId: ""
       type: ImageBlock
     badge:
       label: This is a badge
       color: text-primary
       type: Badge
-    elementId: ''
+    elementId: ""
     colors: bg-light-fg-dark
     styles:
       self:
@@ -85,7 +85,7 @@ sections:
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
-          elementId: ''
+          elementId: ""
           url: /images/icon1.svg
           styles:
             self:
@@ -99,7 +99,7 @@ sections:
         image:
           url: /images/icon2.svg
           altText: Featured icon two
-          elementId: ''
+          elementId: ""
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
@@ -124,7 +124,7 @@ sections:
         image:
           url: /images/icon3.svg
           altText: Featured icon three
-          elementId: ''
+          elementId: ""
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
@@ -140,13 +140,13 @@ sections:
         type: FeaturedItem
     actions:
       - label: Get started
-        altText: ''
+        altText: ""
         url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
+        elementId: ""
         type: Button
     badge:
       label: This is a badge
@@ -155,7 +155,7 @@ sections:
         self:
           textAlign: center
       type: Badge
-    elementId: ''
+    elementId: ""
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
@@ -168,37 +168,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -245,7 +214,7 @@ sections:
       title: Title of the video
       url: /images/placeholder-video.mp4
       controls: false
-      aspectRatio: '16:9'
+      aspectRatio: "16:9"
       styles:
         self:
           padding:
@@ -298,7 +267,7 @@ sections:
       loop: true
       muted: true
       controls: false
-      aspectRatio: '16:9'
+      aspectRatio: "16:9"
       styles:
         self:
           padding:
@@ -408,7 +377,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: "Maria Walters, Company"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -437,7 +406,7 @@ sections:
       - title: >-
           "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: "John Doe, Company"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -466,7 +435,7 @@ sections:
       - title: >-
           "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: "Maria Walters, Company"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -496,7 +465,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
+        subtitle: "Maria Walters, Company"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -525,7 +494,7 @@ sections:
       - title: >-
           "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
         tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
+        subtitle: "Jane Walters, Company"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -554,7 +523,7 @@ sections:
       - title: >-
           “Quote from some important person goes right here. I love using Netlify Create.”
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: "Jane Doe, Company"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
