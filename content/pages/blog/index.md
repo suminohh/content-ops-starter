@@ -5,12 +5,12 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Latest Post
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: My Shower Thoughts
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/finding-your-visual-identity.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -31,9 +31,9 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Blog
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
+    This is the blog of Sumin Oh where I post about technology, product,
     and design.
   socialImage: /images/img-placeholder.svg
   type: Seo

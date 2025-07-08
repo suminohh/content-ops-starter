@@ -1,9 +1,8 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Sumin Oh",
     "image": {
-        "url": "/images/avatar1.svg",
-        "altText": "Rhonda Piper",
+        "url": "/images/suminoh.JPG",
+        "altText": "Sumin Oh",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -32,5 +31,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Sumin Oh is simply pursuing her shower thoughts.\n"
 }
