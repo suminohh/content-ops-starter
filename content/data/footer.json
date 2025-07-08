@@ -7,21 +7,15 @@
     "text": "Sumin Oh",
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/suminohh/suminohh",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://x.com/suminohh",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/in/suminoh/",
             "icon": "linkedin",
+            "type": "Social"
+        },
+        {
+            "altText": "GitHub link",
+            "url": "https://github.com/suminohh/suminohh",
+            "icon": "github",
             "type": "Social"
         },
         {
