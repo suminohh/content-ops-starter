@@ -15,7 +15,7 @@ topSections:
     text: >
       Trained as an industrial designer, I am a product manager for a performance 
       marketing agency in Atlanta. While my 9-to-5 is focused on optimizing workflows 
-      for ad ops and improving attribution, I also scratch my creative itch through 
+      for ad ops and improving attribution management, I also scratch my creative itch through 
       painting, gardening, writing, and dreaming up my next home project.
     colors: bg-neutral-fg-dark
     styles:
