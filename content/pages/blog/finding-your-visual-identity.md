@@ -8,7 +8,7 @@ excerpt: >-
   but a good designer will respect that. Your website, your portfolio 
   is your playground.
 featuredImage:
-  url: /images/suminoh-crop-website.png
+  url: /images/suminoh-169-crop-website.png
   altText: Thumbnail
   type: ImageBlock
   styles:
@@ -18,7 +18,7 @@ isFeatured: true
 seo:
   metaTitle: Finding Your Visual Identity For Your Portfolio
   metaDescription: Treat your website, your portfolio as your playground.
-  socialImage: /images/suminoh-crop-website.png
+  socialImage: /images/suminoh-169-crop-website.png
   type: Seo
 colors: bg-light-fg-dark
 styles:
