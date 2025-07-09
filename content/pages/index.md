@@ -5,19 +5,18 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: A team that works closely together
+      text: Sumin Oh
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: Product Manager
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Trained as an industrial designer, I am a product manager for a performance 
+      marketing agency in Atlanta. While my 9-to-5 is focused on optimizing workflows 
+      for ad ops and improving attribution, I also scratch my creative itch through 
+      painting, gardening, writing, and dreaming up my next home project.
     colors: bg-neutral-fg-dark
     styles:
       self:
@@ -71,8 +70,7 @@ styles:
 seo:
   metaTitle: Blog
   metaDescription: >-
-    This is the blog of Sumin Oh where I post about technology, product,
-    and design.
+    This is the blog of Sumin Oh, where I share my thoughts on design, work, and the philosophies that shape the way I live.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
