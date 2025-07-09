@@ -15,7 +15,16 @@
         {
             "label": "Blog",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Objects",
+            "altText": "Objects",
+            "url": "/objects",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
