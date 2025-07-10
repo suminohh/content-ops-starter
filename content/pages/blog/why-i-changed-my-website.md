@@ -37,5 +37,5 @@ I took an intro to web development class during college where we dabbled in HTML
 
 I found a free template and started modifying that instead! It didn't require much AI assistance because it was pretty straightforward to review the files and get the gist. For things I wasn't sure about, I turned to Cursor. (Cursor wouldn't cooperate so I did some manual copy-and-pasting.) And shoutout to Netlify! After a few failed attempts at cloning the repo and deploying, I can now make edits and launch with just a few clicks.
 
-It is taking me some time to create new pages and visual assets, but I'm so excited to finally be in control. Every issue I run into is now a reflection of my own skillset and an opportunity to upskill! It's incredibly liberating. And honestly, I'm really happy I no longer have to spend $200 a year simply because I didn't know how to do something. That was honestly my biggest motivator.
+It is taking me some time to create new pages and visual assets, but I'm so excited to finally be in control. Every issue I run into is now a reflection of my own skillset! It's incredibly liberating. And honestly, I'm really happy I no longer have to spend $200 a year simply because I didn't know how to do something. That was honestly my biggest motivator.
 
