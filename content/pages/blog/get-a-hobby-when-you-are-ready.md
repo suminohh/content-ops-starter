@@ -3,9 +3,7 @@ title: Get a Hobby When You're Ready
 slug: get-a-hobby-when-you-are-ready
 date: '2025-07-09'
 excerpt: >-
-  Hobbies are meant to be fun. And "fun" doesn't always mean "easy", I've realized. 
-  They are what you make of them. While for some, a hobby is simply just that, for 
-  others, it provides an opportunity to experiment and learn without pressure.
+  Hobbies are meant to be fun. And "fun" doesn't always mean "easy", I've realized. They can also be a playground to experiment and learn without pressure. They are what you make of them.
 featuredImage:
   url: /images/abstract-feature1.svg
   altText: Thumbnail
