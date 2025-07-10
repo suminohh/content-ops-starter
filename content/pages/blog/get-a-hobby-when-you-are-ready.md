@@ -4,7 +4,7 @@ slug: get-a-hobby-when-you-are-ready
 date: '2025-07-09'
 excerpt: >-
   Hobbies are meant to be fun. And "fun" doesn't always mean "easy", I've realized. 
-  They are what you make of them. For some, a hobby is simply a hobby, and for 
+  They are what you make of them. While for some, a hobby is simply just that, for 
   others, it provides an opportunity to experiment and learn without pressure.
 featuredImage:
   url: /images/abstract-feature1.svg
@@ -41,4 +41,4 @@ Instead of giving up and starting yet another painting, I decided to keep workin
 
 Is it a master piece? Not yet. Will it ever be? I don't know. But I've learned that hobbies requiring some level of skill will reward you with improvement over time, if you're patient. Sometimes it takes intentional effort and awareness, but I think it eventually becomes muscle memory. Instead of focusing on creating something amazing, I've found it helpful to just pick up the brush and put paint on the canvas. It's not a big deal, but we often make it one. When you treat it as something "just for fun," it's a lot easier to get started and to keep going, session after session.
 
-Hobbies do help you escape the stress of life, and sometimes, they're not the very first activity that comes to mind when you have free time. They are what you make of them. For some, a hobby is simply a hobby, and for others, it provides an opportunity to experiment and learn without pressure, like how painting and pickleball helped me truly *see* the value of repetition. Constant exposure to frustrating and scary "oopsy" moments removed some of that fear of failure and self-disappointment, because now I know, with enough time and practice, I'll eventually get there, and so will you!
+Hobbies do help you escape the stress of life, and sometimes, they're not the very first activity that comes to mind when you have free time. They are what you make of them. For some, a hobby is simply just that, and for others, it provides an opportunity to experiment and learn without pressure, like how painting and pickleball helped me truly *see* the value of repetition. Constant exposure to frustrating and scary "oopsy" moments removed some of that fear of failure and self-disappointment, because now I know, with enough time and practice, I'll eventually get there, and so will you!
