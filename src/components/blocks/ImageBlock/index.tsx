@@ -31,15 +31,16 @@ export default function ImageBlock(props) {
                     styles?.self?.padding ? mapStyles({ padding: styles?.self?.padding }) : undefined,
                     styles?.self?.borderWidth && styles?.self?.borderWidth !== 0 && styles?.self?.borderStyle !== 'none'
                         ? mapStyles({
-                              borderWidth: styles?.self?.borderWidth,
-                              borderStyle: styles?.self?.borderStyle,
-                              borderColor: styles?.self?.borderColor ?? 'border-primary'
-                          })
+                            borderWidth: styles?.self?.borderWidth,
+                            borderStyle: styles?.self?.borderStyle,
+                            borderColor: styles?.self?.borderColor ?? 'border-primary'
+                        })
                         : undefined,
                     styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
                 )}
                 src={url}
                 alt={altText}
+                style={{ maxWidth: '100%', height: 'auto', display: 'block' }}
             />
         </div>
     );
