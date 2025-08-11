@@ -15,7 +15,7 @@ topSections:
     text: >
       Former industrial designer turned product manager.  While my 9-to-5 is focused on optimizing ad ops workflows and improving attribution management, I also scratch my creative itch through 
       painting, gardening, writing, and dreaming up my next home project.
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
