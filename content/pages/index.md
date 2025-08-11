@@ -6,7 +6,7 @@ enableSearch: true
 topSections:
   - title:
       text: Sumin Oh
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
@@ -15,7 +15,7 @@ topSections:
     text: >
       Former industrial designer turned product manager.  While my 9-to-5 is focused on optimizing ad ops workflows and improving attribution management, I also scratch my creative itch through 
       painting, gardening, writing, and dreaming up my next home project.
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -40,7 +40,7 @@ topSections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/about-me-fuzzy.jpg
+      url: /images/heather-green-unsplash.jpg
   - title:
       text: Latest Post
       color: text-dark
