@@ -40,7 +40,7 @@ topSections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/about-me-darker.jpg
+      url: /images/about-me-fuzzy.jpg
   - title:
       text: Latest Post
       color: text-dark
