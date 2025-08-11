@@ -150,6 +150,14 @@ const TAILWIND_MAP = {
         underline: 'underline',
         'line-through': 'line-through',
         'underline line-through': 'underline-line-through'
+    },
+    letterSpacing: {
+        tighter: 'tracking-tighter',    // -0.05em (closer letters)
+        tight: 'tracking-tight',        // -0.025em (slightly closer)
+        normal: 'tracking-normal',      // 0em (default spacing)
+        wide: 'tracking-wide',          // 0.025em (slightly wider)
+        wider: 'tracking-wider',        // 0.05em (wider)
+        widest: 'tracking-widest'       // 0.1em (widest)
     }
 };
 

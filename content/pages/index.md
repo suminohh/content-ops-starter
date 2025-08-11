@@ -13,11 +13,9 @@ topSections:
       type: TitleBlock
     subtitle: Product Manager
     text: >
-      Trained as an industrial designer, I am a product manager for a performance 
-      marketing agency in Atlanta. While my 9-to-5 is focused on optimizing workflows 
-      for ad ops and improving attribution management, I also scratch my creative itch through 
+      Former industrial designer turned product manager.  While my 9-to-5 is focused on optimizing ad ops workflows and improving attribution management, I also scratch my creative itch through 
       painting, gardening, writing, and dreaming up my next home project.
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -30,6 +28,8 @@ topSections:
         justifyContent: center
       text:
         textAlign: center
+        fontSize: medium        
+        letterSpacing: wide
       subtitle:
         textAlign: center
     type: GenericSection
@@ -40,7 +40,7 @@ topSections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
+      url: /images/heather-green-unsplash.jpg
   - title:
       text: Latest Post
       color: text-dark
