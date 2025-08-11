@@ -28,6 +28,8 @@ topSections:
         justifyContent: center
       text:
         textAlign: center
+        fontSize: medium        
+        letterSpacing: wide
       subtitle:
         textAlign: center
     type: GenericSection
