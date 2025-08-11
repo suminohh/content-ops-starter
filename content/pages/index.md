@@ -40,7 +40,7 @@ topSections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/heather-green-unsplash.jpg
+      url: /images/kiwihug-unsplash.jpg
   - title:
       text: Latest Post
       color: text-dark
