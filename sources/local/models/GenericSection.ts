@@ -141,7 +141,6 @@ export const GenericSection: Model = {
                     fontWeight: ['400', '500', '600', '700'],
                     textDecoration: '*',
                     textAlign: '*',
-                    color: '*',
                 },
                 text: {
                     textAlign: '*'
