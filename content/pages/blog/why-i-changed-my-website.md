@@ -5,7 +5,7 @@ date: '2025-07-10'
 excerpt: >-
   For the longest time, I relied on various website builders to create and host my personal site. No more! Partially thanks to AI.
 featuredImage:
-  url: /images/change-website.png
+  url: /images/web-redesign.png
   altText: Thumbnail
   type: ImageBlock
   styles:
@@ -14,7 +14,7 @@ featuredImage:
 seo:
   metaTitle: Why I Changed My Website
   metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/change-website.png
+  socialImage: /images/web-redesign.png
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout

@@ -27,7 +27,7 @@ author: content/data/person1.json
 type: PostLayout
 ---
 
-I don't know about you, but when wiser friends used to tell me to find a hobby, I never really understood why I should. The common answer was that it would make you a more interesting person when it came to interviews or making friends, but that never felt like a compelling reason to seriously pursue one.
+I don't know about you, but when my wiser friends used to tell me to find a hobby, I never really understood why I should. The common answer was that it would make you a more interesting person when it came to interviews or making friends, but that never felt like a compelling reason to seriously pursue one.
 
 I used to find it hard to focus on anything other than my main goal at one time. No hobby felt engaging or exciting, maybe except for taking a long stroll every evening. I even felt a little insecure about not having a cool hobby and dismissed how I was spending my time, whether it was job hunting, working on my portfolio, or nurturing relationships. But now that I feel somewhat settled, I found myself twiddling my thumbs, unable to sit still. It has finally come a point where having a hobby made sense (to me).
 
