@@ -12,12 +12,13 @@ import MenuIcon from '../../svgs/menu';
 
 export default function Header(props) {
     const { colors = 'bg-light-fg-dark', styles = {}, enableAnnotations } = props;
+    const processedColors = colors === 'bg-orange-fg-light' ? 'bg-orange text-white' : colors;
     return (
         <header
             className={classNames(
                 'sb-component',
                 'sb-component-header',
-                colors,
+                processedColors,
                 'relative',
                 'shadow-header',
                 styles?.self?.margin ? mapStyles({ padding: styles?.self?.margin }) : undefined,
@@ -316,8 +317,8 @@ function LinkWithSubnav(props) {
             onMouseLeave={
                 !process.env.stackbitPreview && !inMobileMenu
                     ? () => {
-                          setIsSubNavOpen(false);
-                      }
+                        setIsSubNavOpen(false);
+                    }
                     : undefined
             }
             data-sb-field-path={fieldPath}
@@ -327,8 +328,8 @@ function LinkWithSubnav(props) {
                 onMouseOver={
                     !process.env.stackbitPreview && !inMobileMenu
                         ? () => {
-                              setIsSubNavOpen(true);
-                          }
+                            setIsSubNavOpen(true);
+                        }
                         : undefined
                 }
                 onClick={() => setIsSubNavOpen((prev) => !prev)}

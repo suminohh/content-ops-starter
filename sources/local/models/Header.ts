@@ -134,6 +134,13 @@ export const Header: Model = {
                     textColor: '$light',
                     backgroundColor: '$dark',
                     borderColor: '#ececec'
+                },
+                {
+                    label: 'Orange background, light foreground',
+                    value: 'bg-orange-fg-light',
+                    textColor: '$light',
+                    backgroundColor: '$orange',
+                    borderColor: '#ececec'
                 }
             ],
             group: 'styles',
