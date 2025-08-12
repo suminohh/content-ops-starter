@@ -35,7 +35,9 @@ And now with the rise of AI, I felt like I had no excuse not to try to build my 
 
 I took an intro to web development class during college where we dabbled in HTML and CSS, but I figured the experience I gained from side projects over the years might get me somewhere, especially with the help of AI. Between Google AI Studio, Claude, and Cursor, I considered designing in Figma and vibe coding my way through, but I was lazy and wanted to launch quickly, so I "cheated." 
 
-I found a free template and started modifying that instead! It didn't require much AI assistance because it was pretty straightforward to review the files and get the gist. For things I wasn't sure about, I turned to Cursor. (Cursor wouldn't cooperate so I did some manual copy-and-pasting.) And shoutout to Netlify! After a few failed attempts at cloning the repo and deploying, I can now make edits and launch with just a few clicks.
+I found a free template and started modifying that instead! It didn't require much AI assistance because it was pretty straightforward to review the files and get the gist. For things I wasn't sure about, I turned to Cursor. Instead of using the agentic mode, I'd ask questions on how to modify something or to debug. I didn't like how it was modifying files that weren't relevant to the changes I was asking for, so I did some manual copy-and-pasting. 
+
+And shoutout to Netlify! After a few failed attempts at cloning the repo and deploying, I can now make edits and launch with just a few clicks.
 
 It is taking me some time to create new pages and visual assets, but I'm so excited to finally be in control. Every issue I run into is now a reflection of my own skillset! It's incredibly liberating. And honestly, I'm really happy I no longer have to spend $200 a year simply because I didn't know how to do something. That was honestly my biggest motivator.
 
