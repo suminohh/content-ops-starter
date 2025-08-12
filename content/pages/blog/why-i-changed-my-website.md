@@ -5,7 +5,7 @@ date: '2025-07-10'
 excerpt: >-
   For the longest time, I relied on various website builders to create and host my personal site. No more! Partially thanks to AI.
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/change-website.png
   altText: Thumbnail
   type: ImageBlock
   styles:
