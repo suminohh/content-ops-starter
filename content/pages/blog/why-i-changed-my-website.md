@@ -31,7 +31,7 @@ For the longest time, I relied on various website builders to create and host my
 2. There was no support for bugs or errors.
 3. It wasn't ideal for hosting blog content. 
 
-Another major factor that came into play was my desire to rebrand. My previous website was playful, a little girly, and whimsical, which reflects my personality, but it didn't come across as professional, or, perhaps, as intentional.
+Another major factor that came into play was my desire to rebrand. My previous website was playful, a little girly, and whimsical, which reflect my personality, but it didn't come across as professional, or, perhaps, as intentional.
 
 And now with the rise of AI, I felt like I had no excuse not to try to build my own website. 
 
