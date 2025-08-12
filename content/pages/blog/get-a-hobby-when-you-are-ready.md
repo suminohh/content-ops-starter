@@ -5,7 +5,7 @@ date: '2025-07-09'
 excerpt: >-
   Hobbies are meant to be fun. And "fun" doesn't always mean "easy," I've realized. They can also be a playground to experiment and learn without pressure. They are what you make of them.
 featuredImage:
-  url: /images/abstract-feature1.svg
+  url: /images/hobby.png
   altText: Thumbnail
   type: ImageBlock
   styles:
@@ -17,7 +17,7 @@ isDraft: false
 seo:
   metaTitle: Get a Hobby When You're Ready
   metaDescription: How hobbies help you grow.
-  socialImage: /images/abstract-feature1.svg
+  socialImage: /images/hobby.png
   type: Seo
 colors: bg-light-fg-dark
 styles:
