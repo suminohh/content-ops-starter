@@ -14,7 +14,7 @@ featuredImage:
 seo:
   metaTitle: Why I Changed My Website
   metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature3.svg
+  socialImage: /images/change-website.png
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
