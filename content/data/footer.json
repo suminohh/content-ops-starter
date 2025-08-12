@@ -27,5 +27,11 @@
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
     "colors": "bg-dark-fg-light",
+    "styles": {
+        "self": {
+            "backgroundColor": "#df3d36",
+            "color": "#ffffff"
+        }
+    },
     "type": "Footer"
 }

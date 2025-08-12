@@ -1,12 +1,15 @@
 {
+    "orange": "#df3d36",
+    "blue": "#1d1684",
+    "pink": "#D94E73",
     "yellow": "#FFD700",
     "light": "#ffffff",
     "dark": "#4A4A4A",
     "neutral": "#E8E8EB",
     "neutralAlt": "#DCDCDC",
     "primary": "#2a2a2a",
-    "fontBody": "serif",
-    "fontHeadlines": "serif",
+    "fontBody": "sans",
+    "fontHeadlines": "sans",
     "h1": {
         "size": "6xl",
         "weight": "normal",

@@ -20,11 +20,15 @@ module.exports = {
                 dark: themeStyle.dark,
                 neutral: themeStyle.neutral,
                 neutralAlt: themeStyle.neutralAlt,
-                primary: themeStyle.primary
+                primary: themeStyle.primary,
+                pink: themeStyle.pink,
+                blue: themeStyle.blue,
+                orange: themeStyle.orange
             },
             fontFamily: {
-                sans: ['Inter', 'sans-serif'],
-                serif: ['Fraunces','EB Garamond', 'serif']
+                sans: ['Lexend', 'Poppins', 'Inter', 'sans-serif'],
+                serif: ['Fraunces','EB Garamond', 'serif'],
+                display: ['Kirang Haerang','Krona One', 'Poppins', 'Inter', 'sans-serif']
             },
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'

@@ -10,6 +10,7 @@ topSections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: Product Manager
     text: >
@@ -32,15 +33,18 @@ topSections:
         letterSpacing: wide
       subtitle:
         textAlign: center
+        fontWeight: 600
+        color: text-orange
+
     type: GenericSection
     backgroundImage:
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/kiwihug-unsplash.jpg
+      url: /images/beige-bg.svg
   - title:
       text: Latest Post
       color: text-dark

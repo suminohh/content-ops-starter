@@ -138,9 +138,10 @@ export const GenericSection: Model = {
                 },
                 subtitle: {
                     fontStyle: '*',
-                    fontWeight: ['400', '500', '700'],
+                    fontWeight: ['400', '500', '600', '700'],
                     textDecoration: '*',
-                    textAlign: '*'
+                    textAlign: '*',
+                    color: '*',
                 },
                 text: {
                     textAlign: '*'
