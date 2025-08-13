@@ -42,5 +42,4 @@ I found a free template and started modifying that instead! The initial updates 
 After a few failed attempts at cloning the repo and deploying, I can now make edits and launch with just a few clicks. Shout out to  Netlify for making it that easy!
 
 It is taking me some time to create new pages and visual assets, but I'm so excited to finally be in control. Every issue I run into is now a reflection of my own skillset. It's incredibly liberating. And honestly, I'm really happy I no longer have to spend $200 a year simply because I didn't know how to do something. That was honestly my biggest motivator, haha. I did pay for Cursor, but that's okay because I'm learning.
-It is taking me some time to create new pages and visual assets, but I'm so excited to finally be in control. Every issue I run into is now a reflection of my own skillset. It's incredibly liberating. And honestly, I'm really happy I no longer have to spend $200 a year simply because I didn't know how to do something. That was honestly my biggest motivator, haha. I did pay for Cursor, but that's okay because I'm learning.
 
