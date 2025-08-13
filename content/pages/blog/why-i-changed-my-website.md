@@ -1,7 +1,7 @@
 ---
 title:  Why I Changed My Website
 slug: why-i-changed-my-website
-date: '2025-07-10'
+date: '2025-08-11'
 excerpt: >-
   For the longest time, I relied on various website builders to create and host my personal site. No more! Partially thanks to AI.
 featuredImage:
@@ -37,9 +37,10 @@ And now with the rise of AI, I felt like I had no excuse not to try to build my 
 
 I took an intro to web development class during college where we dabbled in HTML and CSS, and I figured the experience I gained from side projects over the years might get me somewhere, especially with AI. Between Google AI Studio, Claude, and Cursor, I considered designing in Figma and vibe coding my way through, but I was lazy and wanted to launch quickly, so I "cheated." 
 
-I found a free template and started modifying that instead! The initial updates didn't require much AI assistance because it was pretty straightforward to review the files and get the gist. For things I wasn't sure about, I turned to Cursor. Instead of relying the agentic mode to do everything for me, I'd ask questions on how to modify something or to debug. I didn't like how it was modifying files that weren't relevant to the changes I requested, so I opted for some manual copy-and-pasting. This way, I can start learning how the files are organized and structured. 
+I found a free template and started modifying that instead! The initial updates didn't require much AI assistance because it was pretty straightforward to review the files and get the gist. For things I wasn't sure about, I turned to Cursor. Instead of relying on the agentic mode to do everything for me, I'd ask questions on how to modify something or to debug. I didn't like how it was modifying files that weren't relevant to the changes I requested, so I opted for some manual copy-and-pasting. This way, I can start learning how the files are organized and structured. 
 
-After a few failed attempts at cloning the repo and deploying, I can now make edits and launch with just a few clicks. Shout out to  Netlify for making it really easy!
+After a few failed attempts at cloning the repo and deploying, I can now make edits and launch with just a few clicks. Shout out to  Netlify for making it that easy!
 
-It is taking me some time to create new pages and visual assets, but I'm so excited to finally be in control. Every issue I run into is now a reflection of my own skillset! It's incredibly liberating. And honestly, I'm really happy I no longer have to spend $200 a year simply because I didn't know how to do something. That was honestly my biggest motivator, haha. I did pay for Cursor, but that's okay because I'm learning.
+It is taking me some time to create new pages and visual assets, but I'm so excited to finally be in control. Every issue I run into is now a reflection of my own skillset. It's incredibly liberating. And honestly, I'm really happy I no longer have to spend $200 a year simply because I didn't know how to do something. That was honestly my biggest motivator, haha. I did pay for Cursor, but that's okay because I'm learning.
+It is taking me some time to create new pages and visual assets, but I'm so excited to finally be in control. Every issue I run into is now a reflection of my own skillset. It's incredibly liberating. And honestly, I'm really happy I no longer have to spend $200 a year simply because I didn't know how to do something. That was honestly my biggest motivator, haha. I did pay for Cursor, but that's okay because I'm learning.
 
