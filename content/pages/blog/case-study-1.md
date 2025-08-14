@@ -15,6 +15,7 @@ featuredImage:
       borderRadius: large
       textAlign: center
   type: ImageBlock
+isFeatured: true
 bottomSections:
   - title: Divider
     colors: bg-light-fg-dark
