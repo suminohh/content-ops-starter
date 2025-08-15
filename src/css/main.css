@@ -147,6 +147,12 @@
         th {
             font-weight: bold;
         }
+
+        img {
+            @apply mx-auto block;
+            max-width: 100%;
+            height: auto;
+        }
     }
 
     /* Buttons */
