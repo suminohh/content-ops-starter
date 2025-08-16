@@ -28,11 +28,15 @@ type: PostLayout
 author: content/data/person1.json
 ---
 
+![](/images/suminoh-169-crop-website.png)
+
 When I was an undergrad studying industrial design, I struggled with my visual identity, my brand. I was the minimalist lover, drawn to sans-serif fonts, black and white, and a whole lot of emptiness. While there are many designers who embrace this style—as I once did—it didn’t reflect who I was.
 
 It wasn’t until a few years ago, when I “discovered” my visual identity. I hestitate to even call it “identity” because it sounds like I have a clear idea, and frankly, I don’t want to confine myself to a theme. (This is probably one of the reasons why I struggled to express myself through my portfolio.) I couldn’t commit, and it was most likely a reflection of what I was going through at the time. Confusion and lack of confidence.
 
 Back then, I didn’t realize that the collection of things that I liked would naturally form a theme, a pattern that represents me, and eventually become a visual identity. Not all things harmonize perfectly, but it is truly in the process of finding balance amongst the different elements that ultimately creates a cohesive theme, what we call a brand.
+
+![](/images/sesame-umbrella.png)
 
 I leaned into minimalism out of cluelessness. Following rules was somewhat easy, and that is what minimalism is. Each design decision has to be precise and intentional because there aren’t many elements to draw the viewer’s attention. I’ve never been much of a rule follower. I was, and I am, stubborn. My soul yearned to make the world beautiful, despite my parents’ strong wishes for me not to pursue design. And to me, minimalism isn’t that.
 

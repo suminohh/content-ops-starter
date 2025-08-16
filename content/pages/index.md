@@ -14,8 +14,8 @@ topSections:
       type: TitleBlock
     subtitle: Product Manager
     text: >
-      Industrial designer turned product manager.  While my 9-to-5 is focused on optimizing ad ops workflows and improving attribution management, I also scratch my creative itch through 
-      painting, gardening, writing, and dreaming up my next home project.
+      Industrial designer turned product manager. 
+      While my 9-to-5 is focused on optimizing ad ops workflows and improving attribution management, I also scratch my creative itch through painting, gardening, writing, and dreaming up my next home project.
     colors: bg-light-fg-dark
     styles:
       self:
