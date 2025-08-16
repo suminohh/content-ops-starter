@@ -17,7 +17,7 @@ seo:
   socialImage: /images/suminoh-169-crop-website.png
   type: Seo
 colors: bg-light-fg-dark
-type: PostLayout
+type: PageLayout
 author: content/data/person1.json
 styles:
   self:
