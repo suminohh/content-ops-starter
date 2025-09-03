@@ -51,7 +51,7 @@ topSections:
       type: TitleBlock
     subtitle: My Shower Thoughts
     posts:
-      - content/pages/blog/finding-your-visual-identity.md
+      - content/pages/blog/9-5-viscosity.md
     showThumbnail: true
     showExcerpt: true
     showDate: true

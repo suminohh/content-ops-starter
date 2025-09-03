@@ -21,7 +21,7 @@ type: PostLayout
 author: content/data/person1.json
 styles:
   self:
-    flexDirection: col
+    flexDirection: row
 isFeatured: true
 ---
 
