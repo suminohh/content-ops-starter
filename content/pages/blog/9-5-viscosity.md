@@ -31,7 +31,7 @@ As I've grown into a larger organization, I've come to see how important teamwor
 
 ### Not just my company's project
 
-Ownership and teamwork go hand in hand, but without ownership nothing gets done. That final deliverable embodies the many aspects and efforts a team considers and practices. While deliverables are the end goal, their quality and execution speak to the ownership and integrity of the team. Ownership shows up in many ways: gathering the necessary context by identifying the relevant colleagues and asking questions, paying close attention to the work being defined, making sure all the stakeholders are aligned, thinking ahead about potential technical or resource conflicts. But as humans, we sometimes have blindspots, and this is where your team steps in.
+Ownership and teamwork go hand in hand, but without ownership nothing gets done. That final deliverable embodies the many aspects and efforts a team considers and practices. While deliverables are the end goal, their quality and execution speak to the ownership and integrity of the team. They shows up in many ways: gathering the necessary context by identifying the relevant colleagues and asking questions, paying close attention to the work being defined, making sure all the stakeholders are aligned, thinking ahead about potential technical or resource conflicts. To know, or to learn, what it takes to become better, and to actually put it into practice even when no one is looking takes integrity. But as humans, we sometimes have blind spots, things we miss, and this is where your team steps in.
 
 ### Not just my project
 
@@ -41,4 +41,4 @@ Speaking of balance, the beauty of building a product is being able to work with
 
 Colleagues who don't just care about work but about how we could work better together make the 9-5 a much more pleasant and rewarding time. I'm especially grateful for teammates who keep communication open and share the pieces that keep the projects rolling. Silos often emerge when an org is rushing to grow while juggling a full stack of projects to deliver, but when we take the time to share knowledge and check in, we grow and move forward together as a unit.
 
-I've come across different school of thoughts about work. Some people only care to show up to complete the task at hand and while others aim to enjoy the process. Work can't be sunshine and butterflies but I believe with the right attitude, 9-5 is an opportunity to upskill and continually better yourself in ways that make the work more meaningful.
+I've come across different schools of thought about work. Some people only care to show up to complete the task at hand, while others aim to make most out of the process. Work can't be sunshine and butterflies but I believe with the right attitude, 9-5 is an opportunity to upskill and continually better yourself in ways that make the work more meaningful.
