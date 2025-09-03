@@ -22,7 +22,7 @@ author: content/data/person1.json
 styles:
   self:
     flexDirection: col
-isFeatured: false
+isFeatured: true
 ---
 
 Before I pivoted into product, I spent some time as a designer working on both digital experiences and physical products. My design experience was mostly with early-stage startups that didn't have formal product managers. While product managers do exist for physical goods, I never worked with one during my time as an industrial designer. This meant identifying customer needs and deciding which features to prioritize fell on my lap. I either worked directly with CTOs or senior dev leads, or I took on the role of an engineer creating CAD models for manufacturing. In setups that lean, there weren't many layers between decisions and execution, which meant little risk of misalignment and interpersonal friction. In hindsight, I had it easy; these challenges weren't even on my mind.

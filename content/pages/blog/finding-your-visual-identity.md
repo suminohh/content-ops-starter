@@ -14,7 +14,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
-isFeatured: true
+isFeatured: false
 seo:
   metaTitle: Finding Your Visual Identity For Your Portfolio
   metaDescription: Treat your website, your portfolio as your playground.
