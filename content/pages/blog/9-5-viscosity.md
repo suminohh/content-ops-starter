@@ -3,7 +3,7 @@ title: 9-5 Viscosity
 slug: 9-5-viscosity
 date: '2025-09-02'
 excerpt: >-
-  I used to think "culture" was just one of those fluffy buzzwords tossed around on Linkedin, but now I feel it through and through. Work can't be sunshine and butterflies but I believe with the right attitude, 9-5 is an opportunity to upskill and continually better yourself in ways that make the work more meaningful.
+  I used to think "culture" was just one of those fluffy buzzwords tossed around on Linkedin, but now I feel it through and through. Work can't be sunshine and butterflies but I believe with the right attitude, 9-5 can be something more.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
