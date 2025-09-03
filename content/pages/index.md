@@ -72,9 +72,9 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog
+  metaTitle: Shower Thoughts
   metaDescription: >-
-    This is the blog of Sumin Oh, where I share my thoughts on design, work, and the philosophies that shape the way I live.
+    The blog of Sumin Oh — thoughts on design, work, and the philosophies that shape how I think, build, and live.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
