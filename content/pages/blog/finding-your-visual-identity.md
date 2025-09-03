@@ -8,7 +8,7 @@ excerpt: >-
   but a good designer will respect that. Your website, your portfolio 
   is your playground.
 featuredImage:
-  url: /images/suminoh-169-crop-website.png
+  url: /images/suminoh-32-crop-website.png
   altText: Thumbnail
   type: ImageBlock
   styles:
