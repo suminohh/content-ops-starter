@@ -31,7 +31,7 @@ As I've grown into a larger organization, I've come to see how important teamwor
 
 ### Not just my company's project
 
-Ownership and teamwork go hand in hand, but without ownership nothing gets done. That final deliverable embodies the many aspects and efforts a team considers and practices. While deliverables are the end goal, their quality and execution speak to the ownership and integrity of the team. They shows up in many ways: gathering the necessary context by identifying the relevant colleagues and asking questions, paying close attention to the work being defined, making sure all the stakeholders are aligned, thinking ahead about potential technical or resource conflicts. To know, or to learn, what it takes to become better, and to actually put it into practice even when no one is looking takes integrity. But as humans, we sometimes have blind spots, things we miss, and this is where your team steps in.
+Ownership and teamwork go hand in hand, but without ownership nothing gets done. That final deliverable embodies the many aspects and efforts a team considers and practices. While deliverables are the end goal, their quality and execution speak to the ownership and integrity of the team. They show up in many ways: gathering the necessary context by identifying the relevant colleagues and asking questions, paying close attention to the work being defined, making sure all the stakeholders are aligned, thinking ahead about potential technical or resource conflicts. To know, or to learn, what it takes to become better, and to actually put it into practice even when no one is looking takes integrity. But as humans, we sometimes have blind spots, things we miss, and this is where your team steps in.
 
 ### Not just my project
 
